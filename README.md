@@ -1,5 +1,13 @@
-# motor-control-MATLAB-simulink
-The main goal of this project is to build a simulation of electrical motor control using CMEX S-Function. Mathematical model of electrical motor and control system is obtained from IEEE journals with title **Robust Position Anti-Interference Control for PMSM Servo System With Uncertain Disturbance** by Longfei Li, Jie Xiao, Yun Zhao, Kan Liu, Senior Member, IEEE, Xiaoyan Peng, Haozhe Luan, and Kaiqing Li.
+# Motor-Control-MATLAB-Simulink
+The main goal of this project is to build a simulation of electrical motor control using CMEX S-Function. Mathematical model of electrical motor and control system is obtained from IEEE journals with the title is **Robust Position Anti-Interference Control for PMSM Servo System With Uncertain Disturbance** by Longfei Li, Jie Xiao, Yun Zhao, Kan Liu, Senior Member, IEEE, Xiaoyan Peng, Haozhe Luan, and Kaiqing Li.
+
+<h1>Mathematical Model</h1>
+
+Mathematical model of Permanent Magnet Synchronous Motor (PMSM) on the $dq$-axis:
+- $\dot{x_1} = x_2$
+- $\dot{x_2} = \theta_1 x_3 - \theta_2 x_2 -\theta_3$
+- $\dot{x_3} = -g_1 x_3 - g_2 x_2 x_4 -g_3 x_4 + g_4 u_q + f_1$
+- $\dot{x_4} = -g_1 x_4 + g_2 x_2 x_3 + g_4 u_d + f_2$
 
 <h1>Simulink Block Function</h1>
 
