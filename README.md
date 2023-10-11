@@ -106,13 +106,13 @@ In the first experiment, reference rotor position or tetha reference is $(10t-5)
 
 The yellow line inidicates tetha reference or reference angle position and the blue line indicates tetha mechanic or actual angle position for PSMM servo. Figure 3 shows the difference between these parameters.
 
-<h1>Result of Experiment 1</h1>
+<h1>Results of Experiment 1</h1>
 
 ![3](https://user-images.githubusercontent.com/65435469/204592439-019ad4f1-351d-4868-a94c-5b7a70983037.PNG)
 Figure 1. Comparison between $\theta_r$ and $\theta_m$
 
 ![2](https://user-images.githubusercontent.com/65435469/204592643-daa152ca-153a-43e5-93d8-9dc984cae65e.PNG)
-Figure 2. Comparison between $\theta_r$ and $\theta_m (zoom in version)$
+Figure 2. Comparison between $\theta_r$ and $\theta_m$ (zoom in version)
 
 ![4](https://user-images.githubusercontent.com/65435469/204592916-1e11250e-df77-4c51-837a-8acce30108ed.PNG)
 Figure 3. Error angle position
@@ -123,13 +123,13 @@ In the second experiment, the reference rotor position or tetha reference is a s
 
 The yellow line inidicates tetha reference or reference angle position and the blue line indicates tetha mechanic or actual angle position for PSMM servo. Figure 3 shows the difference between these parameters.
 
-<h1>Result of Experiment 2</h1>
+<h1>Results of Experiment 2</h1>
 
 ![5](https://user-images.githubusercontent.com/65435469/204593221-523bdf6a-81a0-4d4c-b423-8d610da75760.PNG)
 Figure 4. Comparison between $\theta_r$ and $\theta_m$
 
 ![6](https://user-images.githubusercontent.com/65435469/204593233-9689f313-6739-4af5-adf9-cea962da6824.PNG)
-Figure 5. Comparison between $\theta_r$ and $\theta_m (zoom in version)$
+Figure 5. Comparison between $\theta_r$ and $\theta_m$ (zoom in version)
 
 ![7](https://user-images.githubusercontent.com/65435469/204593247-0975d9cd-2f0d-418b-8f12-5f8724cf5a89.PNG)
 Figure 6. Error angle position
